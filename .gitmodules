@@ -1,0 +1,6 @@
+[submodule "git-submodules-repo2"]
+	path = git-submodules-repo2
+	url = ../git-submodules-repo2.git
+[submodule "git-submodules-repo3"]
+	path = repo3-with-random-name
+	url = ../git-submodules-repo3.git
